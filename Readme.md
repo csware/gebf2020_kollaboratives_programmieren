@@ -23,7 +23,7 @@ Installieren Sie bitte die aktuellste Version von Git (sollte über den entsprec
 
 ### 2) Erstellen Sie einen GitHub-Account:
 
-GitHub ist ein Dienst, der Projekte dezentral auf Servern verwaltet, die auf der Basis der Versionsverwaltung Git laufen.
+GitHub ist ein Dienst, der Projekte zentral verwaltet, die auf der Basis der Versionsverwaltung Git laufen, und verschiedene Kollaborationsfunktionen bereitstellt.
 
 Nachdem Sie nun Git installiert haben, benötigen Sie für das Offene Format einen GitHub-Account. Diesen können Sie hier erstellen: https://github.com/join
 
